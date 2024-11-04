@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="doc"
+                 name="apollo-kotlin-ffs"
+                 start-page="welcome.md">
+
+    <toc-element toc-title="GitHub" href="https://github.com/apollographql/apollo-kotlin-ffs"/>
+    <toc-element toc-title="Kdoc" href="https://apollographql.github.io/apollo-kotlin-ffs/kdoc"/>
+    <toc-element topic="welcome.md"/>
+</instance-profile>
