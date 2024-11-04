@@ -1,7 +1,7 @@
 [![Maven Central](https://img.shields.io/maven-central/v/com.apollographql.ffs/module?style=flat-square)](https://central.sonatype.com/namespace/com.apollographql.ffs)
 [![OSS Snapshots](https://img.shields.io/nexus/s/com.apollographql.ffs/module?server=https%3A%2F%2Fs01.oss.sonatype.org&label=oss-snapshots&style=flat-square)](https://s01.oss.sonatype.org/content/repositories/snapshots/com/apollographql/ffs/)
 
-## apollo-kotlin-ffs
+## Apollo Kotlin Federation Foreign Schemas (FFS)
 
 `apollo-kotlin-ffs` is an [Apollo compiler plugin](https://www.apollographql.com/docs/kotlin/advanced/compiler-plugins) that adds Federation Foreign Schemas (FFS) to the Apollo Compiler.
 
