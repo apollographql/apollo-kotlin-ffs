@@ -1,0 +1,89 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.apollographql.ffs",
+    "module": "apollo-kotlin-ffs",
+    "version": "0.0.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.8"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "apollo-kotlin-ffs-0.0.0-SNAPSHOT.jar",
+          "url": "apollo-kotlin-ffs-0.0.0-SNAPSHOT.jar",
+          "size": 4559,
+          "sha512": "c91cd4703d8ad9f1a4be41ef18df7a713ca0ad981db59ed774fc9f3e54094aab84186b2870facae6706effb9cae3b070d4949a746b571e9b6c3c0cae1b87bf4e",
+          "sha256": "5bc7c96d4d6c7e0449b73644240763996fb052f27ac2e773fe9ab719f377b9bc",
+          "sha1": "b6806b20e8c194d083498bb9e40d50a40d5bc85b",
+          "md5": "99b2d91432df6f2dd2fd44a1be9726ad"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "com.apollographql.apollo",
+          "module": "apollo-compiler",
+          "version": {
+            "requires": "4.0.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "apollo-kotlin-ffs-0.0.0-SNAPSHOT.jar",
+          "url": "apollo-kotlin-ffs-0.0.0-SNAPSHOT.jar",
+          "size": 4559,
+          "sha512": "c91cd4703d8ad9f1a4be41ef18df7a713ca0ad981db59ed774fc9f3e54094aab84186b2870facae6706effb9cae3b070d4949a746b571e9b6c3c0cae1b87bf4e",
+          "sha256": "5bc7c96d4d6c7e0449b73644240763996fb052f27ac2e773fe9ab719f377b9bc",
+          "sha1": "b6806b20e8c194d083498bb9e40d50a40d5bc85b",
+          "md5": "99b2d91432df6f2dd2fd44a1be9726ad"
+        }
+      ]
+    }
+  ]
+}
