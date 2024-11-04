@@ -3,9 +3,9 @@
   "component": {
     "group": "com.apollographql.ffs",
     "module": "apollo-kotlin-ffs",
-    "version": "0.0.0-SNAPSHOT",
+    "version": "0.0.0",
     "attributes": {
-      "org.gradle.status": "integration"
+      "org.gradle.status": "release"
     }
   },
   "createdBy": {
@@ -36,13 +36,13 @@
       ],
       "files": [
         {
-          "name": "apollo-kotlin-ffs-0.0.0-SNAPSHOT.jar",
-          "url": "apollo-kotlin-ffs-0.0.0-SNAPSHOT.jar",
+          "name": "apollo-kotlin-ffs-0.0.0.jar",
+          "url": "apollo-kotlin-ffs-0.0.0.jar",
           "size": 4559,
-          "sha512": "1c3f82ffbd12a234ba910ed90b4bfaafbc1d1dabb228aa207f31941ca3988fa9573dbc08e4bbf830faf878321df9c0ecfb34cc58b1f2c2dd81437581b6eaa599",
-          "sha256": "8cc431276df8352c2d8fe7e999ac894dcddb546054b2a1d86c96fc34f731b27d",
-          "sha1": "338a29caed1d2a67ad82dd21c8d619624d1eacd4",
-          "md5": "31ca7db22e720e3441e825203984a85e"
+          "sha512": "53bfb7a3fcb774af39252479a7ebe20c7ba5ed4936c117a6c9c9c5f249c6bef222f9fdddddedd1cae181879f169d28974f02688e6e8b8250c08c490ebdc51e2e",
+          "sha256": "48e3ee73cddbd7c517321349021f7a2c887099425fc8cf999df65c4438f0fd04",
+          "sha1": "b937699352cae8da9a42a63650d4622e7699d62e",
+          "md5": "bd8837371af1e69a1f81d3f36d1133d1"
         }
       ]
     },
@@ -75,13 +75,13 @@
       ],
       "files": [
         {
-          "name": "apollo-kotlin-ffs-0.0.0-SNAPSHOT.jar",
-          "url": "apollo-kotlin-ffs-0.0.0-SNAPSHOT.jar",
+          "name": "apollo-kotlin-ffs-0.0.0.jar",
+          "url": "apollo-kotlin-ffs-0.0.0.jar",
           "size": 4559,
-          "sha512": "1c3f82ffbd12a234ba910ed90b4bfaafbc1d1dabb228aa207f31941ca3988fa9573dbc08e4bbf830faf878321df9c0ecfb34cc58b1f2c2dd81437581b6eaa599",
-          "sha256": "8cc431276df8352c2d8fe7e999ac894dcddb546054b2a1d86c96fc34f731b27d",
-          "sha1": "338a29caed1d2a67ad82dd21c8d619624d1eacd4",
-          "md5": "31ca7db22e720e3441e825203984a85e"
+          "sha512": "53bfb7a3fcb774af39252479a7ebe20c7ba5ed4936c117a6c9c9c5f249c6bef222f9fdddddedd1cae181879f169d28974f02688e6e8b8250c08c490ebdc51e2e",
+          "sha256": "48e3ee73cddbd7c517321349021f7a2c887099425fc8cf999df65c4438f0fd04",
+          "sha1": "b937699352cae8da9a42a63650d4622e7699d62e",
+          "md5": "bd8837371af1e69a1f81d3f36d1133d1"
         }
       ]
     }
