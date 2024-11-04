@@ -1,0 +1,9 @@
+extend schema
+@link(url: "https://specs.apollo.dev/federation/v2.4",
+    import: ["@key", "@extends", "@external", "FieldSet"])
+
+
+type Query  @key(fields: "foo"){
+    foo: Int
+}
+

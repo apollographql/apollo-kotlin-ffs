@@ -11,3 +11,4 @@ jobs:
       - uses: gradle/actions/setup-gradle@dbbdc275be76ac10734476cc723d82dfe7ec6eda #v3.4.2
       - run: |
           ./gradlew build 
+          ./gradlew -p ffs-test generateApolloSources
