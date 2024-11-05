@@ -3,38 +3,38 @@
   <groupId>com.apollographql.ffs</groupId>
   <artifactId>apollo-kotlin-ffs</artifactId>
   <versioning>
-    <lastUpdated>20241105091431</lastUpdated>
+    <lastUpdated>20241105092539</lastUpdated>
     <snapshot>
-      <timestamp>20241105.091431</timestamp>
+      <timestamp>20241105.092539</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <extension>module</extension>
-        <value>0.0.1-20241105.091431-1</value>
-        <updated>20241105091431</updated>
-      </snapshotVersion>
-      <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.0.1-20241105.091431-1</value>
-        <updated>20241105091431</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>0.0.1-20241105.091431-1</value>
-        <updated>20241105091431</updated>
+        <value>0.0.1-20241105.092539-1</value>
+        <updated>20241105092539</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.1-20241105.091431-1</value>
-        <updated>20241105091431</updated>
+        <value>0.0.1-20241105.092539-1</value>
+        <updated>20241105092539</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>0.0.1-20241105.092539-1</value>
+        <updated>20241105092539</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.1-20241105.092539-1</value>
+        <updated>20241105092539</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>0.0.1-20241105.091431-1</value>
-        <updated>20241105091431</updated>
+        <value>0.0.1-20241105.092539-1</value>
+        <updated>20241105092539</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

@@ -39,10 +39,10 @@
           "name": "apollo-kotlin-ffs-0.0.1-SNAPSHOT.jar",
           "url": "apollo-kotlin-ffs-0.0.1-SNAPSHOT.jar",
           "size": 4559,
-          "sha512": "58d33f0f059e3744218f2d1c28ddf034ef6c5cd3baa489ac003ee72bcff3542fe7298dd26d6504bc5e309e6fcffd67773c672f76e53b8038a14bb2b8dfa832b9",
-          "sha256": "91469c3f56518e098f4d5928b62c13a9f2051d40d8bd995a3e3ef27c8051aada",
-          "sha1": "a8f802fbd203e0110a4ab6b264760192d209020d",
-          "md5": "782dc60b5c52ff4975225c1e7373dc53"
+          "sha512": "d9626bc76f20617a993a4b240a610277834a0e6856a78705758f956607f9bfea95b420a5ddd325c39b69f305fcb6ed29ed0ad0f353a27119c8ed144023159df1",
+          "sha256": "8f41e6b7d8f595a5e8c37fc1199a501f5f67e0ede81e8484ea31dd80523ae515",
+          "sha1": "3402f8136a371c2bf0fd17a1ce38465e7b657260",
+          "md5": "7e9455c568a45120607fc580add30fd2"
         }
       ]
     },
@@ -78,10 +78,10 @@
           "name": "apollo-kotlin-ffs-0.0.1-SNAPSHOT.jar",
           "url": "apollo-kotlin-ffs-0.0.1-SNAPSHOT.jar",
           "size": 4559,
-          "sha512": "58d33f0f059e3744218f2d1c28ddf034ef6c5cd3baa489ac003ee72bcff3542fe7298dd26d6504bc5e309e6fcffd67773c672f76e53b8038a14bb2b8dfa832b9",
-          "sha256": "91469c3f56518e098f4d5928b62c13a9f2051d40d8bd995a3e3ef27c8051aada",
-          "sha1": "a8f802fbd203e0110a4ab6b264760192d209020d",
-          "md5": "782dc60b5c52ff4975225c1e7373dc53"
+          "sha512": "d9626bc76f20617a993a4b240a610277834a0e6856a78705758f956607f9bfea95b420a5ddd325c39b69f305fcb6ed29ed0ad0f353a27119c8ed144023159df1",
+          "sha256": "8f41e6b7d8f595a5e8c37fc1199a501f5f67e0ede81e8484ea31dd80523ae515",
+          "sha1": "3402f8136a371c2bf0fd17a1ce38465e7b657260",
+          "md5": "7e9455c568a45120607fc580add30fd2"
         }
       ]
     }
