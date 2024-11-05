@@ -3,7 +3,7 @@
 
 ## Apollo Kotlin Federation Foreign Schemas (FFS)
 
-`apollo-kotlin-ffs` is an [Apollo compiler plugin](https://www.apollographql.com/docs/kotlin/advanced/compiler-plugins) that adds Federation Foreign Schemas (FFS) to the Apollo Compiler.
+`apollo-kotlin-ffs` is an [Apollo compiler plugin](https://www.apollographql.com/docs/kotlin/advanced/compiler-plugins) that adds Federation [Foreign Schemas](https://specs.apollo.dev/link/v1.0/) (FFS) to the Apollo Compiler.
 
 This is useful if you want to use Apollo Kotlin codegen with a schema that contains [federation subgraph directives](https://www.apollographql.com/docs/graphos/reference/federation/subgraph-spec). 
 
