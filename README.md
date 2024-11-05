@@ -7,9 +7,9 @@
 
 This is useful if you want to use Apollo Kotlin codegen with a schema that contains [federation subgraph directives](https://www.apollographql.com/docs/graphos/reference/federation/subgraph-spec). 
 
-Those schemas are typically meant to be consumed by a server framework and not by a client. Client should use introspection results or the [full schema](https://github.com/graphql/graphql-wg/blob/main/rfcs/FullSchemas.md) after it has been processed by the server framework. 
+Those schemas are typically meant to be consumed by a server framework and not by a client. Clients should use introspection results or the [full schema](https://github.com/graphql/graphql-wg/blob/main/rfcs/FullSchemas.md) after it has been processed by the server framework. 
 
-Sometimes getting such a client schema is cumbersome. `apollo-kotlin-ffs` makes this process easier by adding the federation directives to the Apollo Kotlin compiler. This allows the client to validate the schema and the operations.
+Sometimes getting such a client schema is cumbersome. In those cases, `apollo-kotlin-ffs` adds the federation directives to the Apollo Kotlin compiler so that it can process the backend SDL.
 
 > [!NOTE] 
 > `apollo-kotlin-ffs` does not do any composition or any query planning. It is merely a tool to help clients validate schemas that are otherwise meant for server consumption.
