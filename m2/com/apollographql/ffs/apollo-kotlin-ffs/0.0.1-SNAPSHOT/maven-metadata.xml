@@ -3,38 +3,38 @@
   <groupId>com.apollographql.ffs</groupId>
   <artifactId>apollo-kotlin-ffs</artifactId>
   <versioning>
-    <lastUpdated>20241104165657</lastUpdated>
+    <lastUpdated>20241105091431</lastUpdated>
     <snapshot>
-      <timestamp>20241104.165657</timestamp>
+      <timestamp>20241105.091431</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <classifier>javadoc</classifier>
-        <extension>jar</extension>
-        <value>0.0.1-20241104.165657-1</value>
-        <updated>20241104165657</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>pom</extension>
-        <value>0.0.1-20241104.165657-1</value>
-        <updated>20241104165657</updated>
+        <extension>module</extension>
+        <value>0.0.1-20241105.091431-1</value>
+        <updated>20241105091431</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.0.1-20241104.165657-1</value>
-        <updated>20241104165657</updated>
+        <value>0.0.1-20241105.091431-1</value>
+        <updated>20241105091431</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.1-20241104.165657-1</value>
-        <updated>20241104165657</updated>
+        <value>0.0.1-20241105.091431-1</value>
+        <updated>20241105091431</updated>
       </snapshotVersion>
       <snapshotVersion>
-        <extension>module</extension>
-        <value>0.0.1-20241104.165657-1</value>
-        <updated>20241104165657</updated>
+        <extension>pom</extension>
+        <value>0.0.1-20241105.091431-1</value>
+        <updated>20241105091431</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>javadoc</classifier>
+        <extension>jar</extension>
+        <value>0.0.1-20241105.091431-1</value>
+        <updated>20241105091431</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
