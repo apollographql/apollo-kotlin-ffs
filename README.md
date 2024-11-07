@@ -1,5 +1,5 @@
-[![Maven Central](https://img.shields.io/maven-central/v/com.apollographql.ffs/module?style=flat-square)](https://central.sonatype.com/namespace/com.apollographql.ffs)
-[![OSS Snapshots](https://img.shields.io/nexus/s/com.apollographql.ffs/module?server=https%3A%2F%2Fs01.oss.sonatype.org&label=oss-snapshots&style=flat-square)](https://s01.oss.sonatype.org/content/repositories/snapshots/com/apollographql/ffs/)
+[![Maven Central](https://img.shields.io/maven-central/v/com.apollographql.ffs/apollo-kotlin-ffs?style=flat-square)](https://central.sonatype.com/namespace/com.apollographql.ffs)
+[![OSS Snapshots](https://img.shields.io/nexus/s/com.apollographql.ffs/apollo-kotlin-ffs?server=https%3A%2F%2Fs01.oss.sonatype.org&label=oss-snapshots&style=flat-square)](https://s01.oss.sonatype.org/content/repositories/snapshots/com/apollographql/ffs/)
 
 ## Apollo Kotlin Federation Foreign Schemas (FFS)
 
