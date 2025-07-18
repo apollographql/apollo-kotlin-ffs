@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.8"
+      "version": "9.0.0-rc-2"
     }
   },
   "variants": [
@@ -38,11 +38,11 @@
         {
           "name": "apollo-kotlin-ffs-0.0.1-SNAPSHOT.jar",
           "url": "apollo-kotlin-ffs-0.0.1-SNAPSHOT.jar",
-          "size": 4559,
-          "sha512": "cd2bce6de8fdd1d6a1e63a985c1e3bd35a4dd4722b053f3e13542f475f7de004a39ec7ab6983d9b0092b3ec22e0b6be8c357dee831ce591c1b0258e15a71815c",
-          "sha256": "8b8dec6e90d2193c98af30721da3f1cc20815f3ce1558ce4625765975e97968f",
-          "sha1": "acd0e2cc57c36ca6c6170e3ee12cb027f615a658",
-          "md5": "87c66cd683f665dc2ef4df4fea9ef7d4"
+          "size": 4520,
+          "sha512": "a3a4d9b40bcf56366358915b88610370e313ffd647c2be268100901b7343614c5d1bef4f0d5ca6fb8cc8fc1bbda990ecd411a599126d9864b39adcc6edd61af3",
+          "sha256": "f64e5ca6b3061cb6338fce0ab1d2cf48c215513b94bd280165f3d4c7807bae66",
+          "sha1": "e177d61665a7c8d8fec1ee1dfac3fd8782f6fb9b",
+          "md5": "fc84d98471f4eeeb4d8441648d232c0e"
         }
       ]
     },
@@ -62,7 +62,7 @@
           "group": "com.apollographql.apollo",
           "module": "apollo-compiler",
           "version": {
-            "requires": "4.0.1"
+            "requires": "4.3.0"
           }
         },
         {
@@ -77,11 +77,11 @@
         {
           "name": "apollo-kotlin-ffs-0.0.1-SNAPSHOT.jar",
           "url": "apollo-kotlin-ffs-0.0.1-SNAPSHOT.jar",
-          "size": 4559,
-          "sha512": "cd2bce6de8fdd1d6a1e63a985c1e3bd35a4dd4722b053f3e13542f475f7de004a39ec7ab6983d9b0092b3ec22e0b6be8c357dee831ce591c1b0258e15a71815c",
-          "sha256": "8b8dec6e90d2193c98af30721da3f1cc20815f3ce1558ce4625765975e97968f",
-          "sha1": "acd0e2cc57c36ca6c6170e3ee12cb027f615a658",
-          "md5": "87c66cd683f665dc2ef4df4fea9ef7d4"
+          "size": 4520,
+          "sha512": "a3a4d9b40bcf56366358915b88610370e313ffd647c2be268100901b7343614c5d1bef4f0d5ca6fb8cc8fc1bbda990ecd411a599126d9864b39adcc6edd61af3",
+          "sha256": "f64e5ca6b3061cb6338fce0ab1d2cf48c215513b94bd280165f3d4c7807bae66",
+          "sha1": "e177d61665a7c8d8fec1ee1dfac3fd8782f6fb9b",
+          "md5": "fc84d98471f4eeeb4d8441648d232c0e"
         }
       ]
     }

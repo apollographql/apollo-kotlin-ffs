@@ -14,8 +14,7 @@
   <url>https://github.com/apollographql/apollo-kotlin-ffs</url>
   <licenses>
     <license>
-      <name>MIT License</name>
-      <url>https://raw.githubusercontent.com/apollo-kotlin-ffs/apollographql/main/LICENSE</url>
+      <name>MIT</name>
     </license>
   </licenses>
   <developers>
@@ -39,7 +38,7 @@
     <dependency>
       <groupId>com.apollographql.apollo</groupId>
       <artifactId>apollo-compiler</artifactId>
-      <version>4.0.1</version>
+      <version>4.3.0</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>
