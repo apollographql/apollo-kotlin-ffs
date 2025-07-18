@@ -3,10 +3,10 @@
   <groupId>com.apollographql.ffs</groupId>
   <artifactId>apollo-kotlin-ffs</artifactId>
   <versioning>
-    <latest>0.0.1-SNAPSHOT</latest>
+    <latest>0.0.2-SNAPSHOT</latest>
     <versions>
-      <version>0.0.1-SNAPSHOT</version>
+      <version>0.0.2-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20250718171112</lastUpdated>
+    <lastUpdated>20250718171438</lastUpdated>
   </versioning>
 </metadata>
