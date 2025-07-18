@@ -3,7 +3,7 @@
   "component": {
     "group": "com.apollographql.ffs",
     "module": "apollo-kotlin-ffs",
-    "version": "0.0.1-SNAPSHOT",
+    "version": "0.0.2-SNAPSHOT",
     "attributes": {
       "org.gradle.status": "integration"
     }
@@ -36,8 +36,8 @@
       ],
       "files": [
         {
-          "name": "apollo-kotlin-ffs-0.0.1-SNAPSHOT.jar",
-          "url": "apollo-kotlin-ffs-0.0.1-SNAPSHOT.jar",
+          "name": "apollo-kotlin-ffs-0.0.2-SNAPSHOT.jar",
+          "url": "apollo-kotlin-ffs-0.0.2-SNAPSHOT.jar",
           "size": 4520,
           "sha512": "a3a4d9b40bcf56366358915b88610370e313ffd647c2be268100901b7343614c5d1bef4f0d5ca6fb8cc8fc1bbda990ecd411a599126d9864b39adcc6edd61af3",
           "sha256": "f64e5ca6b3061cb6338fce0ab1d2cf48c215513b94bd280165f3d4c7807bae66",
@@ -75,8 +75,8 @@
       ],
       "files": [
         {
-          "name": "apollo-kotlin-ffs-0.0.1-SNAPSHOT.jar",
-          "url": "apollo-kotlin-ffs-0.0.1-SNAPSHOT.jar",
+          "name": "apollo-kotlin-ffs-0.0.2-SNAPSHOT.jar",
+          "url": "apollo-kotlin-ffs-0.0.2-SNAPSHOT.jar",
           "size": 4520,
           "sha512": "a3a4d9b40bcf56366358915b88610370e313ffd647c2be268100901b7343614c5d1bef4f0d5ca6fb8cc8fc1bbda990ecd411a599126d9864b39adcc6edd61af3",
           "sha256": "f64e5ca6b3061cb6338fce0ab1d2cf48c215513b94bd280165f3d4c7807bae66",
