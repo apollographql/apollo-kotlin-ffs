@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.apollographql.ffs</groupId>
-  <artifactId>apollo-kotlin-ffs</artifactId>
+  <artifactId>kdoc</artifactId>
   <versioning>
     <latest>0.0.1-SNAPSHOT</latest>
     <versions>
       <version>0.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20250718171112</lastUpdated>
+    <lastUpdated>20250718171114</lastUpdated>
   </versioning>
 </metadata>
