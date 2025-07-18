@@ -112,7 +112,7 @@ fun getNextSnapshot(version: String): String {
 fun setVersionInDocs(version: String) {
     val file = File("README.md")
     val newContent = file.readText()
-        .replace(Regex("\"com.apollographql\.ffs\:apollo-kotlin-ffs\:[.*]\""), "\"com.apollographql.ffs:apollo-kotlin-ffs:$version\"")
+        .replace(Regex("\"com.apollographql\\.ffs\\:apollo-kotlin-ffs\\:.*\""), "\"com.apollographql.ffs:apollo-kotlin-ffs:$version\"")
     file.writeText(newContent)
 }
 
