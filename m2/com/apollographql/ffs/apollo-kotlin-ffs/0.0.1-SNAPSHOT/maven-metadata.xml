@@ -3,40 +3,40 @@
   <groupId>com.apollographql.ffs</groupId>
   <artifactId>apollo-kotlin-ffs</artifactId>
   <versioning>
-    <lastUpdated>20250718151625</lastUpdated>
+    <lastUpdated>20250718170719</lastUpdated>
     <snapshot>
-      <timestamp>20250718.151625</timestamp>
+      <timestamp>20250718.170719</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>0.0.2-20250718.151625-1</value>
-        <updated>20250718151625</updated>
+        <value>0.0.1-20250718.170719-1</value>
+        <updated>20250718170719</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20250718.170719-1</value>
+        <updated>20250718170719</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.1-20250718.170719-1</value>
+        <updated>20250718170719</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.0.2-20250718.151625-1</value>
-        <updated>20250718151625</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>pom</extension>
-        <value>0.0.2-20250718.151625-1</value>
-        <updated>20250718151625</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>0.0.2-20250718.151625-1</value>
-        <updated>20250718151625</updated>
+        <value>0.0.1-20250718.170719-1</value>
+        <updated>20250718170719</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>module</extension>
-        <value>0.0.2-20250718.151625-1</value>
-        <updated>20250718151625</updated>
+        <value>0.0.1-20250718.170719-1</value>
+        <updated>20250718170719</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>0.0.1-SNAPSHOT</version>
 </metadata>
