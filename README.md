@@ -21,7 +21,7 @@ apollo {
   service("service") {
     packageName.set("com.example")
 
-    plugin("com.apollographql.ffs:apollo-kotlin-ffs:0.0.0")
+    plugin("com.apollographql.ffs:apollo-kotlin-ffs:0.0.1")
   }
 }
 ```
