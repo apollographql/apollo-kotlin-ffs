@@ -4,12 +4,4 @@ pluginManagement {
   }
 }
 
-dependencyResolutionManagement {
-  versionCatalogs {
-    this.create("libs") {
-      this.from(files("../gradle/libs.versions.toml"))
-    }
-  }
-}
-
 includeBuild("../")

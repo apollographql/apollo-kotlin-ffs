@@ -5,11 +5,16 @@ import com.apollographql.apollo.ast.ForeignSchema
 import com.apollographql.apollo.ast.toGQLDocument
 import com.apollographql.apollo.compiler.ApolloCompilerPlugin
 import com.apollographql.apollo.compiler.ApolloCompilerPluginEnvironment
-import com.apollographql.apollo.compiler.ApolloCompilerPluginProvider
+import com.apollographql.apollo.compiler.ApolloCompilerRegistry
 
 @ApolloExperimental
 class FfsCompilerPlugin: ApolloCompilerPlugin {
-  override fun foreignSchemas(): List<ForeignSchema> {
+
+  override fun beforeCompilationStep(environment: ApolloCompilerPluginEnvironment, registry: ApolloCompilerRegistry) {
+    registry.registerForeignSchemas(ffsSchemas())
+  }
+
+  private fun ffsSchemas(): List<ForeignSchema> {
     val definitions = federationDefinitions_2_9.toGQLDocument().definitions
 
     return listOf(
@@ -28,13 +33,6 @@ class FfsCompilerPlugin: ApolloCompilerPlugin {
       ForeignSchema("federation", "v2.8", definitions, emptyList()),
       ForeignSchema("federation", "v2.9", definitions, emptyList()),
     )
-  }
-}
-
-@ApolloExperimental
-class FfsCompilerPluginProvider: ApolloCompilerPluginProvider {
-  override fun create(environment: ApolloCompilerPluginEnvironment): ApolloCompilerPlugin {
-    return FfsCompilerPlugin()
   }
 }
 

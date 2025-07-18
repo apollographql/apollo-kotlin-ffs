@@ -1,7 +1,10 @@
+[versions]
+apollo = "4.3.0"
+
 [libraries]
-apollo-compiler = "com.apollographql.apollo:apollo-compiler:4.0.1"
+apollo-compiler = { module = "com.apollographql.apollo:apollo-compiler", version.ref = "apollo" }
 
 [plugins]
-kgp = { id = "org.jetbrains.kotlin.jvm", version = "2.0.21" }
-apollo = { id = "com.apollographql.apollo", version = "4.0.1" }
-librarian = { id = "com.gradleup.librarian", version = "0.0.7-SNAPSHOT-0cfdcdf1b6a61f3e39260c21b438a0dcbbb88840" }
+kgp = { id = "org.jetbrains.kotlin.jvm", version = "2.2.0" }
+apollo = { id = "com.apollographql.apollo", version.ref = "apollo" }
+librarian = { id = "com.gradleup.librarian", version = "0.0.9" }
